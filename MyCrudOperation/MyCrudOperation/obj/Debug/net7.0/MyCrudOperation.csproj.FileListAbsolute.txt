@@ -1,0 +1,8 @@
+C:\Users\Ahmed\Desktop\WebApi\MVC\MyCrudOperation\MyCrudOperation\obj\Debug\net7.0\MyCrudOperation.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\WebApi\MVC\MyCrudOperation\MyCrudOperation\obj\Debug\net7.0\MyCrudOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\WebApi\MVC\MyCrudOperation\MyCrudOperation\obj\Debug\net7.0\MyCrudOperation.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\WebApi\MVC\MyCrudOperation\MyCrudOperation\obj\Debug\net7.0\MyCrudOperation.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\WebApi\MVC\MyCrudOperation\MyCrudOperation\obj\Debug\net7.0\MyCrudOperation.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\WebApi\MVC\MyCrudOperation\MyCrudOperation\obj\Debug\net7.0\MyCrudOperation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmed\Desktop\WebApi\MVC\MyCrudOperation\MyCrudOperation\obj\Debug\net7.0\MyCrudOperation.RazorAssemblyInfo.cache
+C:\Users\Ahmed\Desktop\WebApi\MVC\MyCrudOperation\MyCrudOperation\obj\Debug\net7.0\MyCrudOperation.RazorAssemblyInfo.cs

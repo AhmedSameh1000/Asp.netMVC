@@ -1,0 +1,78 @@
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\bin\Debug\net7.0\appsettings.Development.json
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\bin\Debug\net7.0\appsettings.json
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\bin\Debug\net7.0\FirstApp.exe
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\bin\Debug\net7.0\FirstApp.deps.json
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\bin\Debug\net7.0\FirstApp.runtimeconfig.json
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\bin\Debug\net7.0\FirstApp.dll
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\bin\Debug\net7.0\FirstApp.pdb
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.csproj.AssemblyReference.cache
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.AssemblyInfoInputs.cache
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.AssemblyInfo.cs
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.csproj.CoreCompileInputs.cache
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.MvcApplicationPartsAssemblyInfo.cache
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\staticwebassets\msbuild.FirstApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\staticwebassets\msbuild.build.FirstApp.props
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FirstApp.props
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FirstApp.props
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\staticwebassets.pack.json
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\staticwebassets.build.json
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\staticwebassets.development.json
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\scopedcss\bundle\FirstApp.styles.css
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.dll
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\refint\FirstApp.dll
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.pdb
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.genruntimeconfig.cache
+E:\MyCourses\ASP.NET CORE From A To E Course\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\ref\FirstApp.dll
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\bin\Debug\net7.0\appsettings.Development.json
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\bin\Debug\net7.0\appsettings.json
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\bin\Debug\net7.0\FirstApp.exe
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\bin\Debug\net7.0\FirstApp.deps.json
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\bin\Debug\net7.0\FirstApp.runtimeconfig.json
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\bin\Debug\net7.0\FirstApp.dll
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\bin\Debug\net7.0\FirstApp.pdb
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.csproj.AssemblyReference.cache
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.AssemblyInfoInputs.cache
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.AssemblyInfo.cs
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.csproj.CoreCompileInputs.cache
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\staticwebassets\msbuild.FirstApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\staticwebassets\msbuild.build.FirstApp.props
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FirstApp.props
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FirstApp.props
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\staticwebassets.pack.json
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\staticwebassets.build.json
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\staticwebassets.development.json
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\scopedcss\bundle\FirstApp.styles.css
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.dll
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\refint\FirstApp.dll
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.pdb
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.genruntimeconfig.cache
+D:\dotnet\.netCore_A_to_Z\3-Middleware\23-Conventional Custom Middleware\Source Code\FirstApp\FirstApp\obj\Debug\net7.0\ref\FirstApp.dll
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\bin\Debug\net7.0\FirstApp.exe
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\bin\Debug\net7.0\FirstApp.deps.json
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\bin\Debug\net7.0\FirstApp.runtimeconfig.json
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\bin\Debug\net7.0\FirstApp.dll
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\bin\Debug\net7.0\FirstApp.pdb
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\obj\Debug\net7.0\staticwebassets\msbuild.FirstApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\obj\Debug\net7.0\staticwebassets\msbuild.build.FirstApp.props
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FirstApp.props
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FirstApp.props
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\obj\Debug\net7.0\scopedcss\bundle\FirstApp.styles.css
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.dll
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\obj\Debug\net7.0\refint\FirstApp.dll
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.pdb
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\obj\Debug\net7.0\FirstApp.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\WebApi\MVC\FirstApp\FirstApp\obj\Debug\net7.0\ref\FirstApp.dll

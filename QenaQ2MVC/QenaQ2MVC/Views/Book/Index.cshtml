@@ -1,0 +1,16 @@
+﻿@using QenaQ2MVC.Models
+@model List<Book>
+
+<html>
+    <head></head>
+<body>
+
+    <h1>Books List</h1>
+    @foreach (var item in Model)
+    {
+     <h1>@item.Title</h1>   
+     <h2>@item.Description</h2>  
+     <hr />
+    }
+</body>
+</html>
